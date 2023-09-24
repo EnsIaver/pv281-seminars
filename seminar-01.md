@@ -11,7 +11,7 @@ paginate: true
 - Introduction
 - Check-in
 - Kahoot
-- Organization info
+- Organizational info
 - Tools set-up
 - Gitlab
 - Submit-00
@@ -36,7 +36,7 @@ paginate: true
 
 ---
 
-# Organization info 
+# Organizational info 
 
 [Interactive syllabus](https://is.muni.cz/auth/el/fi/podzim2023/PV281/index.qwarp)
 [Personal materials](courses.dungeon.software)
@@ -87,6 +87,12 @@ RIP [JetBrains Rust Plugin](https://plugins.jetbrains.com/plugin/8182--deprecate
 [Repository](https://gitlab.fi.muni.cz/pv281/pv281-iterations-2023)
 [Guide](https://is.muni.cz/auth/el/fi/podzim2023/PV281/index.qwarp?prejit=11388609)
 [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
+
+---
+
+# Coding time
+
+![w:540 h:540](./assets/ferris-dancing.gif)
 
 ---
 
