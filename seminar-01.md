@@ -67,6 +67,13 @@ paginate: true
 
 ---
 
+# Recommendations
+
+[Lets get Rusty](https://www.youtube.com/c/LetsGetRusty)
+[No boilerplate](https://www.youtube.com/@NoBoilerplate)
+
+---
+
 # Tools 
 
 - VS Code + [VS Code rust-anaylizer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
