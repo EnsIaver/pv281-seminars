@@ -36,7 +36,7 @@ paginate: true
 
 # Coding time
 
-[Seminar 04 Repo](https://gitlab.fi.muni.cz/pv281/seminar-exercises/week-05-smart-pointers)
+[Seminar 05 Repo](https://gitlab.fi.muni.cz/pv281/seminar-exercises/week-05-smart-pointers)
 ![w:540 h:540](./assets/ferris-dancing.gif)
 
 ---
