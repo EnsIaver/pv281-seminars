@@ -11,7 +11,7 @@ paginate: true
 - Check-in
 - Code reviews
 - Kahoot
-- Stack 
+- Smokers 
 - Check-out
 
 ---
