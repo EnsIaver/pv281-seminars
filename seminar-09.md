@@ -32,7 +32,7 @@ paginate: true
 
 # Coding time
 
-[Seminar 08 Repo](https://gitlab.fi.muni.cz/pv281/seminar-exercises/week-09-eshop-api)
+[Seminar 09 Repo](https://gitlab.fi.muni.cz/pv281/seminar-exercises/week-09-eshop-api)
 ![w:540 h:540](./assets/ferris-dancing.gif)
 
 ---
